@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<html lang="en">
+
+<!-- Head tag -->
+<!DOCTYPE html>
 <html>
 <head><meta name="generator" content="Hexo 3.8.0">
   <meta charset="utf-8">
@@ -26,10 +30,10 @@
   <link rel="stylesheet" href="/css/style.css">
 </head>
 </html>
-<body>
-  <div id="container">
-    <div id="wrap">
-      <header id="header">
+
+<!-- hack iOS CSS :active style -->
+<body ontouchstart="">
+	<header id="header">
   <div id="banner"></div>
   <div id="header-outer" class="outer">
     <div id="header-title" class="inner">
@@ -59,8 +63,11 @@
     </div>
   </div>
 </header>
-      <div class="outer">
-        <section id="main">
+	
+    
+
+    <!-- Main Content -->
+    
   
     <article id="post-nihao-Hexo" class="article article-type-post" itemscope="" itemprop="blogPost">
   <div class="article-meta">
@@ -145,51 +152,10 @@
   
 
 
-</section>
-        
-          <aside id="sidebar">
-  
-    
-
-  
-    
-
-  
-    
-  
-    
-  <div class="widget-wrap">
-    <h3 class="widget-title">Archives</h3>
-    <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/03/">March 2019</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/11/">November 2018</a></li></ul>
-    </div>
-  </div>
 
 
-  
-    
-  <div class="widget-wrap">
-    <h3 class="widget-title">Recent Posts</h3>
-    <div class="widget">
-      <ul>
-        
-          <li>
-            <a href="/2019/03/10/nihao-Hexo/">nihao Hexo</a>
-          </li>
-        
-          <li>
-            <a href="/2018/11/06/hello-world/">Hello World</a>
-          </li>
-        
-      </ul>
-    </div>
-  </div>
-
-  
-</aside>
-        
-      </div>
-      <footer id="footer">
+    <!-- Footer -->
+    <footer id="footer">
   
   <div class="outer">
     <div id="footer-info" class="inner">
@@ -198,27 +164,15 @@
     </div>
   </div>
 </footer>
-    </div>
-    <nav id="mobile-nav">
-  
-    <a href="/" class="mobile-nav-link">Home</a>
-  
-    <a href="/archives" class="mobile-nav-link">Archives</a>
-  
-</nav>
-    
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 
 
-  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
-  <script src="/fancybox/jquery.fancybox.pack.js"></script>
+	<a id="rocket" href="#top" class=""></a>
+	<script type="text/javascript" src="/js/totop.js?v=1.0.0" async=""></script>
+    <script type="text/javascript" src="/js/toc.js?v=1.0.0" async=""></script>
+<!-- Image to hack wechat -->
+<img src="http://yoursite.com/img/icon_wechat.png" width="0" height="0" />
+<!-- Migrate from head to bottom, no longer block render and still work -->
 
-
-<script src="/js/script.js"></script>
-
-
-
-  </div>
 </body>
+
 </html>
