@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[会计基础笔记]]></title>
+    <url>%2F2019%2F04%2F02%2F%E4%BC%9A%E8%AE%A1%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[会计是以货币为主要计量单位，反映和监督一个单位经济活动的一种经济管理工作。不是唯一的计量单位，而是主要计量单位。 会计是单位经济活动的一种管理工作。会计的本质是一种经济管理工作。 编制资产负债表的基础最基本的会计等式：资产=负债+所有者权益 企业在取得收入时可能会影响到的会计要素是：资产、负债、所有者权益；费用不受影响。 会计的基本职能：进行会计核算和会计监督。会计核算职能：指会计以货币为主要计量单位，通过确认、记录、计量、报告等环节，对特定主体得到经济活动进行记账、算账、报账，为各方面提供会计信息的功能。]]></content>
+      <categories>
+        <category>学习笔记</category>
+      </categories>
+      <tags>
+        <tag>会计基础知识</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo框架的学习]]></title>
+    <url>%2F2019%2F04%2F02%2Fhexo%E6%A1%86%E6%9E%B6%E7%9A%84%E5%AD%A6%E4%B9%A0%2F</url>
+    <content type="text"><![CDATA[创建文章在hexo下创建一个新的文章执行命令： hexo new “文章名称” 创建标签页面执行命令:hexo new page tags 创建分类页面执行命令: hexo new page categories]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>Next</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[愿你一切都好]]></title>
+    <url>%2F2019%2F03%2F28%2F%E6%84%BF%E4%BD%A0%E4%B8%80%E5%88%87%E9%83%BD%E5%A5%BD%2F</url>
+    <content type="text"><![CDATA[愿你三冬暖，愿你春不寒，愿你天黑有灯，下雨有伞，愿你一路上，有良人相伴。愿你所有快乐，无需假装。愿你此生尽兴，赤诚善良。愿时光能缓，愿故人不散；愿有人陪你颠沛流离，愿你惦念的人能和你道早安，愿你独闯的日子里不觉得孤单。愿你人间走一遭，圆满了三界六道，看透了是非善恶；从此福来心至，皆是逍遥。]]></content>
+      <categories>
+        <category>心情</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[about]]></title>
+    <url>%2F2019%2F03%2F26%2Fabout%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[nihao Hexo]]></title>
+    <url>%2F2019%2F03%2F10%2Fnihao-Hexo%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F11%2F06%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
