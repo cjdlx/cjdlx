@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[求职经验]]></title>
+    <url>%2F2019%2F05%2F09%2F%E6%B1%82%E8%81%8C%E7%BB%8F%E9%AA%8C%2F</url>
+    <content type="text"><![CDATA[咱们就从简历说起，简历的话，个人认为不必要太花哨，不要过于特立独行，容易招致hr方案，毕竟大部分企业还是想招个正常人而不是不稳定因素。内容的话主要突出学历学校实习证书，校内活动和奖项可适当加入，切忌把鸡毛蒜皮的小事也写进去，毕竟hr浏览一份简历的时间有限，如果不能在第一时间看到他们想看到的东西，那么他们很有可能不再看第二眼。 接下来就是投递简历了，这里我主要介绍两类渠道，一类是校园渠道，一般是从高校的就业网或者论坛去寻找机会，就业网一般都是公开的，非本校学生也可以查看学校的招聘会和宣讲会休息，如果就业网不公开可以尝试关注该校就业办的微信公众号，就业论坛的话一般不公开，也有部分公开的，比如水木社区、华南木棉等都是公开的，这类渠道成功率还是不错的。另一类渠道就是招聘网站，这类渠道我主要推荐应届生就业网，里面汇总了各个企业的招聘信息以及各地的招聘会信息，当然51job和智联也不错，但是里面虚假招聘也不少。]]></content>
+      <categories>
+        <category>经验</category>
+      </categories>
+      <tags>
+        <tag>经验</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[meta 标签]]></title>
     <url>%2F2019%2F05%2F07%2Fmeta-%E6%A0%87%E7%AD%BE%2F</url>
     <content type="text"><![CDATA[meta元素可提供有关页面的元信息（meta-information），比如针对搜索引擎和更新频度的描述和关键词。meta标签位于文档的头部，不包含任何内容。meta标签的属性定义了与文档相关联的名称/值对。 name 属性name 属性提供了名称/值对中的名称。HTML 和 XHTML 标签都没有指定任何预先定义的meta名称。通常情况下，您可以自由使用对自己和源文档的读者来说富有意义的名称。”keywords” 是一个经常被用到的名称。它为文档定义了一组关键字。某些搜索引擎在遇到这些关键字时，会用这些关键字对文档进行分类。 类似这样的 meta 标签可能对于进入搜索引擎的索引有帮助： meta name=”keywords” content=”HTML,ASP,PHP,SQL” http-eduiv属性 使用带有 http-equiv 属性的meta标签时，服务器将把名称/值对添加到发送给浏览器的内容头部。例如，添加： meta http-equiv=”charset” content=”iso-8859-1” meta http-equiv=”expires” content=”31 Dec 2008” 这样发送到浏览器的头部就应该包含： content-type: text/html charset:iso-8859-1 expires:31 Dec 2008 只有浏览器可以接受这些附加的头部字段，并能以适当的方式使用它们时，这些字段才有意义 content属性 content 属性始终要和 name 属性或 http-equiv 属性一起使用。]]></content>
