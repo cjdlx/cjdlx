@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[这是一篇新的日志]]></title>
+    <url>%2F2019%2F05%2F10%2F%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E6%97%A5%E5%BF%97%2F</url>
+    <content type="text"><![CDATA[关于Markdown插入图片的方式 先在GitHub建立一个图片库，里面新建个img文件夹存放图片，copy下仓库的路径。 在电脑新建一个文件夹，在文件夹中把github上的仓库先克隆下来，命令是git clone 仓库地址（要使用git命令得先在电脑上装好git-bash）。 克隆完之后会有一个以IMG命名仓库的文件夹，这个就是我们在github的IMG仓库。我们把一张test.jpg放到IMG文件的子文件夹img中。 接着我们进入IMG文件中敲git命令 先进入IMG的文件夹中 : cd IMG/ 添加IMG文件夹下的所有文件：git add . 提交文件到分支：git commit -m “备注你提交了哪些内容” 把内容推送上仓库：git push origin master .接着我们新建的md文件，并且插入图片，md文件插入图片的代码是： ![]（） 注意：[] 里面可以写图片名或者其他备注信息，为的是让图像无法显示时可以看到备注内容。 github和md文件关联的图片地址是有一定的格式的，其格式如下： https://github.com/用户名/repository仓库名/raw/分支名master/图片文件夹名称/***.png or***.jpg 按照此格式github会自动解析这个语法，并把图片在md文件中正常显示出来。]]></content>
+      <categories>
+        <category>Markdown</category>
+      </categories>
+      <tags>
+        <tag>Markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[上传图片啦]]></title>
     <url>%2F2019%2F05%2F09%2F%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E5%95%A6%2F</url>
     <content type="text"><![CDATA[]]></content>
